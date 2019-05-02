@@ -6,7 +6,9 @@ The content is in Russian. UI has English and Russian localization.
 
 Some cities have little data. Select 'Moscow' for better expirience.
 
-<img src="/screenshots/MoviesList.png" alt="alt text" width="320">
+<img src="/screenshots/MoviesList.png" alt="movies list" width="320">
+<img src="/screenshots/MovieDetails.png" alt="movie details" width="320">
+<img src="/screenshots/Map.png" alt="map" width="320">
 
 ## Locations List
 

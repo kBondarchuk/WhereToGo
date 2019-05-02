@@ -1,0 +1,141 @@
+
+/* Class = "UILabel"; text = "Муниципальное унитарное коммунистическое предприятие по показу художественных фильмов"; ObjectID = "0KY-g3-Wze"; */
+"0KY-g3-Wze.text" = "Муниципальное унитарное коммунистическое предприятие по показу художественных фильмов";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2lh-Sj-RY9"; */
+"2lh-Sj-RY9.text" = "Label";
+
+/* Class = "UILabel"; text = "Leonardo DiCaprio, Billy Zane, Leonardo DiCaprio, Kate Winslet, Billy Zane"; ObjectID = "2qW-NO-CJ9"; */
+"2qW-NO-CJ9.text" = "Leonardo DiCaprio, Billy Zane, Leonardo DiCaprio, Kate Winslet, Billy Zane";
+
+/* Class = "UILabel"; text = "Movie With A Long Long Title: Par 2"; ObjectID = "45z-DP-CzH"; */
+"45z-DP-CzH.text" = "Movie With A Long Long Title: Par 2";
+
+/* Class = "UITabBarItem"; title = "Кинотеатры"; ObjectID = "4G3-sk-Pcu"; */
+"4G3-sk-Pcu.title" = "Кинотеатры";
+
+/* Class = "UITableViewController"; title = "Список"; ObjectID = "4vb-2n-gAM"; */
+"4vb-2n-gAM.title" = "Список";
+
+/* Class = "UILabel"; text = "Drama, Romance "; ObjectID = "64F-RZ-zvb"; */
+"64F-RZ-zvb.text" = "Drama, Romance ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7aL-q3-QxM"; */
+"7aL-q3-QxM.text" = "Title";
+
+/* Class = "UILabel"; text = "IMDB"; ObjectID = "87k-ZV-iU6"; */
+"87k-ZV-iU6.text" = "IMDB";
+
+/* Class = "UITabBarItem"; title = "Кинотеатры"; ObjectID = "9jA-y3-YyA"; */
+"9jA-y3-YyA.title" = "Кинотеатры";
+
+/* Class = "UILabel"; text = "1997"; ObjectID = "B6i-7s-d4y"; */
+"B6i-7s-d4y.text" = "1997";
+
+/* Class = "UILabel"; text = "IMDB"; ObjectID = "CO5-wO-r61"; */
+"CO5-wO-r61.text" = "IMDB";
+
+/* Class = "UIViewController"; title = "Карта"; ObjectID = "HXc-nc-XbA"; */
+"HXc-nc-XbA.title" = "Карта";
+
+/* Class = "UITabBarItem"; title = "Карта"; ObjectID = "Hw9-6D-4al"; */
+"Hw9-6D-4al.title" = "Карта";
+
+/* Class = "UILabel"; text = "+7 861 224-01-15"; ObjectID = "JTb-sy-FuM"; */
+"JTb-sy-FuM.text" = "+7 861 224-01-15";
+
+/* Class = "UILabel"; text = "7.8"; ObjectID = "Kqg-9a-Brr"; */
+"Kqg-9a-Brr.text" = "7.8";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "L80-9c-5CH"; */
+"L80-9c-5CH.text" = "Address";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "NBk-a5-jEY"; */
+"NBk-a5-jEY.text" = "Stars";
+
+/* Class = "UILabel"; text = "IMDB"; ObjectID = "NHY-tC-XEK"; */
+"NHY-tC-XEK.text" = "IMDB";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ngv-TI-40X"; */
+"Ngv-TI-40X.text" = "Label";
+
+/* Class = "UILabel"; text = "Stars"; ObjectID = "PAC-NH-3uD"; */
+"PAC-NH-3uD.text" = "Stars";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "R3h-cQ-ML1"; */
+"R3h-cQ-ML1.text" = "Label";
+
+/* Class = "UILabel"; text = "ежедневно 10:00-22:00"; ObjectID = "SAX-wM-7e0"; */
+"SAX-wM-7e0.text" = "ежедневно 10:00-22:00";
+
+/* Class = "UILabel"; text = "Time table"; ObjectID = "SNw-aa-2Q0"; */
+"SNw-aa-2Q0.text" = "Time table";
+
+/* Class = "UILabel"; text = "Action"; ObjectID = "TUN-Ff-gMA"; */
+"TUN-Ff-gMA.text" = "Action";
+
+/* Class = "UISegmentedControl"; US1-6D-xbe.segmentTitles[0] = " Список"; ObjectID = "US1-6D-xbe"; */
+"US1-6D-xbe.segmentTitles[0]" = " Список";
+
+/* Class = "UISegmentedControl"; US1-6D-xbe.segmentTitles[1] = "Карта"; ObjectID = "US1-6D-xbe"; */
+"US1-6D-xbe.segmentTitles[1]" = "Карта";
+
+/* Class = "UILabel"; text = "Open Web Site"; ObjectID = "XBm-As-A59"; */
+"XBm-As-A59.text" = "Open Web Site";
+
+/* Class = "UILabel"; text = "USA"; ObjectID = "XNA-74-Sj9"; */
+"XNA-74-Sj9.text" = "USA";
+
+/* Class = "UINavigationItem"; title = "Places"; ObjectID = "aQy-tS-XD6"; */
+"aQy-tS-XD6.title" = "Places";
+
+/* Class = "UINavigationItem"; title = "Выбери город"; ObjectID = "gDa-4h-Mut"; */
+"gDa-4h-Mut.title" = "Выбери город";
+
+/* Class = "UILabel"; text = "ул. Красная, д. 169"; ObjectID = "hkN-Dp-x3h"; */
+"hkN-Dp-x3h.text" = "ул. Красная, д. 169";
+
+/* Class = "UILabel"; text = "PROTOTYPE HEADER"; ObjectID = "isC-hn-1is"; */
+"isC-hn-1is.text" = "PROTOTYPE HEADER";
+
+/* Class = "UILabel"; text = "7.8"; ObjectID = "jui-aq-Fv8"; */
+"jui-aq-Fv8.text" = "7.8";
+
+/* Class = "UILabel"; text = "Director"; ObjectID = "m1S-V0-w5g"; */
+"m1S-V0-w5g.text" = "Director";
+
+/* Class = "UILabel"; text = "7.8"; ObjectID = "nGr-ip-7X6"; */
+"nGr-ip-7X6.text" = "7.8";
+
+/* Class = "UITabBarItem"; title = "Фильмы"; ObjectID = "oAU-m9-duP"; */
+"oAU-m9-duP.title" = "Фильмы";
+
+/* Class = "UILabel"; text = "IMDB"; ObjectID = "q6l-2F-xFE"; */
+"q6l-2F-xFE.text" = "IMDB";
+
+/* Class = "UILabel"; text = "7.8"; ObjectID = "qJE-aI-KeX"; */
+"qJE-aI-KeX.text" = "7.8";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "rih-yY-SaL"; */
+"rih-yY-SaL.text" = "Phone";
+
+/* Class = "UILabel"; text = "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."; ObjectID = "sLR-ok-uNn"; */
+"sLR-ok-uNn.text" = "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vtY-m6-vHE"; */
+"vtY-m6-vHE.text" = "Label";
+
+/* Class = "UILabel"; text = "Где посмотреть"; ObjectID = "wAD-EM-0Zl"; */
+"wAD-EM-0Zl.text" = "Где посмотреть";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "xbh-oy-7bj"; */
+"xbh-oy-7bj.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "yuz-ZJ-RST"; */
+"yuz-ZJ-RST.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "zDW-Uh-Nx0"; */
+"zDW-Uh-Nx0.title" = "Title";
+
+/* Class = "UILabel"; text = "Leonardo DiCaprio, Billy Zane, Leonardo DiCaprio, Kate Winslet, Billy Zane"; ObjectID = "zFg-HB-NYY"; */
+"zFg-HB-NYY.text" = "Leonardo DiCaprio, Billy Zane, Leonardo DiCaprio, Kate Winslet, Billy Zane";

@@ -6,6 +6,7 @@ The content is in Russian. UI has English and Russian localization.
 
 Some cities have little data. Select 'Moscow' for better expirience.
 
+![Alt text](/screenshots/MoviesList.png?raw=true "Optional Title")
 
 ## Locations List
 
